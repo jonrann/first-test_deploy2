@@ -6,3 +6,7 @@ intialized this folder using git init
 
 Happy Thursday!
 Another line added.
+
+# Made new branch.
+
+1. Let's start making branches.
